@@ -2,7 +2,7 @@
 <img width="1834" alt="Make your README" src="https://github.com/geekyrana/geekyrana/assets/143057885/c1f8df26-ceb2-44c4-807a-5a3b7648cc1a">
 <br/>
 <br/>
-<h3 align="center">An enthusistic iOS Developer cum Project Manager from India 🇮🇳</h3>
+<h3 align="center">An enthusiastic iOS Developer cum Project Manager from India 🇮🇳</h3>
 <br/>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyrana&label=Profile%20views&color=0e75b6&style=flat" alt="geekyrana" /> </p>
 <p align="left"> <a href="https://twitter.com/inomadgeek" target="blank"><img src="https://img.shields.io/twitter/follow/inomadgeek?logo=twitter&style=for-the-badge" alt="inomadgeek" /></a> </p>
