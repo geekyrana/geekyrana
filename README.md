@@ -1,4 +1,3 @@
-
 <img width="1834" alt="Make your README" src="https://github.com/geekyrana/geekyrana/assets/143057885/c1f8df26-ceb2-44c4-807a-5a3b7648cc1a">
 <br/>
 <br/>
@@ -49,7 +48,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyrana&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-<hr/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=geekyrana.geekyrana" />
 <br/>
+<hr/>
