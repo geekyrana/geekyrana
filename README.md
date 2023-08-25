@@ -8,7 +8,7 @@
 -->
 <div align="center">
 
-🔭 I’m currently working on a **Social Media App** Project
+🔭 I’m currently working on a **Social Media App**
 
 🌱 I’m currently learning **SwiftUI, React Native**
 
