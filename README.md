@@ -10,9 +10,9 @@
 
 🔭 I’m currently working on a **Social Media App**
 
-🌱 I’m currently learning **SwiftUI, React Native**
+🌱 I’m currently learning **SwiftUI, DevOps**
 
-💬 Ask me about **Swift, iOS Development, or maybe React Native**
+💬 Ask me about **Swift, iOS Development, or maybe DevOps**
 
 ⚡ Fun fact **1xEngineer**
 
